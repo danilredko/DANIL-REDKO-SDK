@@ -59,9 +59,9 @@ python -m unittest the_lord_of_the_rings_sdk.tests.test
 ```
 This should be a result: 
 ```shell
-....
+.......
 ----------------------------------------------------------------------
-Ran 4 tests in 2.068s
+Ran 7 tests in 1.145s
 
 OK
 ```
