@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-	name="the_lord_of_the_rings_test_sdk_1",
+	name="the_lord_of_the_rings_sdk",
 	version="0.1",
 	packages=find_packages(),
 	install_requires=["requests==2.28.2"],
