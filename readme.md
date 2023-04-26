@@ -5,7 +5,7 @@ This SDK provides a Python client for interacting with an API that provides info
 # Installation
 You can install this SDK using pip:
 ```python
-pip install the-lord-of-the-rings-test-sdk==0.1
+pip install the-lord-of-the-rings-sdk-danilredko
 ```
 # Configuration
 To use this SDK, you need to import the `Client` class and create an instance with the `BASE_URL` of the API and `API_KEY` as an argument:
