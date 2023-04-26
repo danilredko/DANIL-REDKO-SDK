@@ -5,4 +5,4 @@ venv
 *.pyc
 dist
 build
-the_lord_of_the_rings_sdk.egg-info
+the_lord_of_the_rings_sdk_danilredko.egg-info/
