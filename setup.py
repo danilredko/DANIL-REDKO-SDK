@@ -8,7 +8,7 @@ setup(
 	author="Danil Redko",
 	author_email="dredko@outlook.com",
 	description="Liblab technical assessment",
-	url="https://github.com/danilredko/liblab-test",
+	url="https://github.com/danilredko/DANIL-REDKO-SDK",
 	classifiers=[
 		"License :: OSI Approved :: MIT License",
 		"Programming Language :: Python :: 3",
