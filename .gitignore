@@ -1,0 +1,9 @@
+venv
+.idea
+**/__pycache__/
+**/.mypy_cache/
+*.pyc
+dist
+the_lord_of_the_rings_test_sdk.egg-info/
+the_lord_of_the_rings_test_sdk_1.egg-info/
+build
