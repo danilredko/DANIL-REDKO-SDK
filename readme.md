@@ -14,7 +14,7 @@ from the_lord_of_the_rings_sdk.client import Client
 
 API_BASE_URL = "https://the-one-api.dev/v2/"
 API_KEY = "your-api-key"
-client = Client(API_BASE_URL, API_KEY)
+client = Client(base_url=API_BASE_URL, api_key=API_KEY)
 ```
 # Available Types
 
